@@ -1,0 +1,2 @@
+# First-Linear-Regression-Model
+This is my first Linear Regression Model. It has one input feature and one output target. There is a cost function that computes how well the model is performing. The smaller the value is, the better. There are 2 other methods which calculate Gradient Descent by iterating through all the training examples. x_train and y_train are the training data which can be changed for usecases.
